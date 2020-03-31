@@ -75,8 +75,7 @@ article {
     width: 100%;
 }
 
-article p.title {
-    align-items: center;
+article p.heading {
     align-self: flex-end;
     background-color: lightgray;
     border-bottom: 2px solid black;
